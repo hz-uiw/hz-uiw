@@ -1,56 +1,51 @@
-# 🚀 Vite Project Starter
+## 민창 Minchang Kwon
+[ Back-end ] Entry-Level Programmer. 🌱
 
-Welcome to your new Vite project! This is a simple example to kickstart your development. 🛠️
 
-## 🛠️ Installation
+### 🛠 Tech Stack 🛠
+These are the technologies I can use.
 
-```bash
-npm create vite@latest my-vite-app -- --template react
-cd my-vite-app
-npm install
-```
+<table>
+  <tr>
+    <td style="font-weight: 700;">Language</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td style="font-weight: 700;">Web Front-End</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/React-43BBFF?style=flat-square&logo=React&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vue.js-00964E?style=flat-square&logo=Vue.js&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td style="font-weight: 700;">Web Back-End</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/JSP-FF3300?style=flat-square&logo=Java&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td style="font-weight: 700;">DataBase</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+    </td>
+  </tr>
 
-## 🚀 Run the Development Server
+</table>
 
-```bash
-npm run dev
-```
-
-Then open [http://localhost:5173](http://localhost:5173) in your browser.
-
-## 📂 Project Structure
-
-```
-my-vite-app/
-├── index.html
-├── src/
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── App.css
-├── public/
-├── package.json
-└── vite.config.js
-```
-
-## 🧠 Example Component (App.jsx)
-
-```javascript
-function App() {
-  return (
-    <div className="App">
-      <h1>Hello, Vite! 🚀</h1>
-      <p>This is a simple component example.</p>
-    </div>
-  );
-}
-
-export default App;
-```
-
-## 📦 Build for Production
-
-```bash
-npm run build
-```
-
-Ready to deploy your awesome Vite app! 🎉
+### 📧 kwonmc5.11@gmail.com
+This is an email address that you can contact. 🙂
