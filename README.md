@@ -24,7 +24,7 @@ These are the technologies I can use.
   <tr>
     <td>
       <img src="https://img.shields.io/badge/React-43BBFF?style=flat-square&logo=React&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Vite.js-41D1FF?style=flat-square&logo=Vite&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vite.js-BD34FE?style=flat-square&logo=Vite&logoColor=white"/>
     </td>
   </tr>
   <tr>
