@@ -11,7 +11,7 @@ These are the technologies I can use.
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-squar&logo=C&logoColor=white">
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
       <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
